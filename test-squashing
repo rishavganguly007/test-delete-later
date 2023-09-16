@@ -1,0 +1,5 @@
+step 1: git rebase -i HEAD~n //n = no of commits
+step 2: replace pick with squash
+step 3: git push --force
+
+-- This is end ---
